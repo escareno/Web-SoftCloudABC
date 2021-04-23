@@ -1,0 +1,24 @@
+[24-Jan-2021 23:43:32 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/update.php on line 162
+[24-Jan-2021 23:43:32 UTC] PHP Stack trace:
+[24-Jan-2021 23:43:32 UTC] PHP   1. {main}() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-cron.php:0
+[24-Jan-2021 23:43:32 UTC] PHP   2. do_action_ref_array() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-cron.php:138
+[24-Jan-2021 23:43:32 UTC] PHP   3. WP_Hook->do_action() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/plugin.php:544
+[24-Jan-2021 23:43:32 UTC] PHP   4. WP_Hook->apply_filters() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/class-wp-hook.php:311
+[24-Jan-2021 23:43:32 UTC] PHP   5. wp_version_check() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/class-wp-hook.php:287
+[24-Jan-2021 23:43:32 UTC] PHP   6. trigger_error() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/update.php:162
+[24-Jan-2021 23:43:53 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/update.php on line 388
+[24-Jan-2021 23:43:53 UTC] PHP Stack trace:
+[24-Jan-2021 23:43:53 UTC] PHP   1. {main}() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-cron.php:0
+[24-Jan-2021 23:43:53 UTC] PHP   2. do_action_ref_array() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-cron.php:138
+[24-Jan-2021 23:43:53 UTC] PHP   3. WP_Hook->do_action() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/plugin.php:544
+[24-Jan-2021 23:43:53 UTC] PHP   4. WP_Hook->apply_filters() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/class-wp-hook.php:311
+[24-Jan-2021 23:43:53 UTC] PHP   5. wp_update_plugins() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/class-wp-hook.php:287
+[24-Jan-2021 23:43:53 UTC] PHP   6. trigger_error() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/update.php:388
+[24-Jan-2021 23:44:14 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/update.php on line 578
+[24-Jan-2021 23:44:14 UTC] PHP Stack trace:
+[24-Jan-2021 23:44:14 UTC] PHP   1. {main}() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-cron.php:0
+[24-Jan-2021 23:44:14 UTC] PHP   2. do_action_ref_array() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-cron.php:138
+[24-Jan-2021 23:44:14 UTC] PHP   3. WP_Hook->do_action() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/plugin.php:544
+[24-Jan-2021 23:44:14 UTC] PHP   4. WP_Hook->apply_filters() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/class-wp-hook.php:311
+[24-Jan-2021 23:44:14 UTC] PHP   5. wp_update_themes() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/class-wp-hook.php:287
+[24-Jan-2021 23:44:14 UTC] PHP   6. trigger_error() /Users/eduardorodriguez/Local Sites/escarenocorporation/app/public/wp-includes/update.php:578
